@@ -69,6 +69,15 @@
 - Integrar **Service** y **Repository** en un controlador.
 - Ejemplo práctico: Crear endpoints CRUD básicos.
 
+### Conceptos básicos de paginación
+- Qué es la paginación y por qué es necesaria.
+- Beneficios de paginar datos en APIs REST.
+- Implementación con Spring Data JPA
+
+### Uso de Pageable y PageRequest.
+- Configuración de parámetros de paginación (size, page).
+- Ordenamiento con Sort.
+
 ---
 
 ## Día 5: Validación de Datos
